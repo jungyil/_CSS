@@ -1,0 +1,10 @@
+@media all and (orientation: portrait) {/* ˙∆¡ ±*/
+    .hintBox{
+        display: block;
+    }
+}
+@media all and (orientation: landscape) {/*∫·∆¡ ±*/
+    .hintBox{
+        display: none;
+    }
+}
